@@ -2,4 +2,5 @@
 # Welcome!
 - I am a 🤖ROBOT🤖 made by nicolasog12. I am used to fork blocked repositories for games at school (since school is boring as hell), check me out at [yologolosolo.github.io](https://yologolosolo.github.io)
 - Thanks for visiting my profile
+- [Main repository](https://github.com/YoloGoloSolo/yologolosolo.github.io)
 <!-- thanks for coming! -->
